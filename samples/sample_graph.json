@@ -1,0 +1,9 @@
+{
+  "cities": ["Abidjan", "Yamoussoukro", "Bouaké", "Korhogo"],
+  "routes": [
+    {"from": "Abidjan", "to": "Yamoussoukro", "distance": 230, "status": "ok"},
+    {"from": "Yamoussoukro", "to": "Bouaké", "distance": 100, "status": "ok"},
+    {"from": "Bouaké", "to": "Korhogo", "distance": 350, "status": "ok"},
+    {"from": "Abidjan", "to": "Bouaké", "distance": 330, "status": "ok"}
+  ]
+}
